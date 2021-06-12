@@ -1,0 +1,218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<div style=\"background-color: #b2d0ed; height: 700px; width: 800px; margin-left: 500px\">\n    <img src=\"https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/08/29143522/RT_200EssentialMovies_731X200.jpg\" style=\"width: 800px\"/>\n    <h1>Угадай мой любимый фильм</h1>\n    <div style=\"width: 800px; height: 100px; background-color: #8356b8; font-size: 40px\">\n        ДЖУМАНДЖИ\n    </div>\n    <div style=\"width: 800px; height: 100px; background-color: #78f0a4;font-size: 40px\">\n        СОНИК В КИНО\n    </div>\n    <div style=\"width: 800px; height: 100px; background-color: #66b0b3;font-size: 40px\">\n        МСТИТЕЛИ\n    </div>\n</div>\n\n<div style=\"background-color: #737887; height: 800px; width: 800px; margin-left: 500px\">\n    <img src=\"https://chordprogressionblog.files.wordpress.com/2016/11/life-rhythm.jpg?w=490\" style=\"width: 800px; height: 200px\"/>\n    <h1>Угадай моя любимая музыка</h1>\n    <div style=\"width: 800px; height: 150px; background-color: #8356b8; font-size: 40px\">\n        <iframe frameborder=\"0\" style=\"border:none;width:100%;height:100px;\" width=\"100%\" height=\"100\" src=\"https://music.yandex.ru/iframe/#track/64496155/10362566\"></iframe>\n    </div>\n    <div style=\"width: 800px; height: 150px; background-color: red;font-size: 40px\">\n        <iframe frameborder=\"0\" style=\"border:none;width:100%;height:100px;\" width=\"100%\" height=\"100\" src=\"https://music.yandex.ru/iframe/#track/68413482/11339511\"></iframe>\n    </div>\n    <div style=\"width: 800px; height: 150px; background-color: green;font-size: 40px\">\n        <iframe frameborder=\"0\" style=\"border:none;width:100%;height:100px;\" width=\"100%\" height=\"100\" src=\"https://music.yandex.ru/iframe/#track/60292250/10327453\"></iframe>\n    </div>\n</div>\n\n<div style=\"background-color: #8a2025; height: 900px; width: 800px; margin-left: 500px\">\n    <img src=\"https://k3y.ru/wp-content/uploads/2019/07/EGS.jpg\" style=\"width: 800px; height: 300px\"/>\n    <h1>Угадай мою любимую игру</h1>\n    <div style=\"width: 800px; height: 200px; background-color: #8356b8; font-size: 40px\">\n        <iframe width=\"560\"height=\"200\" src=\"https://www.youtube.com/embed/ai3o0XtrnM8\"frameborder=\"0\"allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\"allowfullscreen></iframe>\n    </div>\n    <div style=\"width: 800px; height: 200px; background-color: red;font-size: 40px\">\n        <iframe width=\"560\" height=\"200\" src=\"https://www.youtube.com/embed/9FCRaSwU3W8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n    </div>\n    <div style=\"width: 800px; height: 200px; background-color: green;font-size: 40px\">\n        <iframe width=\"560\" height=\"200\" src=\"https://www.youtube.com/embed/q4GdJVvdxss\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\"allowfullscreen></iframe>\n    </div>\n</div>\n",
+			"settings":
+			{
+				"buffer_size": 2906,
+				"line_ending": "Windows",
+				"name": "<div style=\"background-color: #b2d0ed; height: 700"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAWgsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div style=\"background-color: #b2d0ed; height: 700",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "13.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
